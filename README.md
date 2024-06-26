@@ -17,8 +17,8 @@ Follow these steps to set up and run the Nmap Scanner Web Interface locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/nadeemkhadim/nmapscanner.git
-   cd nmapscanner
+   git clone https://github.com/nadeemkhadim/NmapScanner.git
+   cd NmapScanner
    ```
 
 2. **Install dependencies**:
